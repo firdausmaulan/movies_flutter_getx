@@ -1,0 +1,1 @@
+typedef Searchable = Function(String query);
